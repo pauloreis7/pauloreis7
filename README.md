@@ -1,4 +1,6 @@
 # Hello world! I am Paulo Reis   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+FullStack enthusiast of the best technologies on the market. Cofounder and developer of multiple apps that have impacted hundreds of people around the world. Determined to contribute as much as possible to the technology community and open source projects.
+
 
 ##  🙋‍♂️  Get in touch
 <div> 
