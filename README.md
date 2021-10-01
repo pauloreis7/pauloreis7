@@ -15,7 +15,7 @@
   <a href="https://github.com/pauloreis7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloreis7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloreis7&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauloreis7&border_color=fff&theme=monokai"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauloreis7&border_color=fff&theme=dracula"/>
 </div>
   
   ## 👨‍💻 Technologies and tools
