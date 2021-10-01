@@ -19,6 +19,7 @@
 </div>
   
   ## 👨‍💻 Technologies and tools
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,5 +31,5 @@
   <img align="center" alt="Paulo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Paulo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="right" alt="Paulo-Pic" height="180" src="https://user-images.githubusercontent.com/63323224/135682810-d22cfdbe-06cc-4377-b2ef-2494c30d3060.png?            width=676&height=676">
 </div>
-  
