@@ -31,5 +31,19 @@
   <img align="center" alt="Paulo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Paulo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="Paulo-Pic" height="180" src="https://user-images.githubusercontent.com/63323224/135682810-d22cfdbe-06cc-4377-b2ef-2494c30d3060.png?            width=676&height=676">
+  <img align="right" alt="Github" height="140" 
+       src="https://th.bing.com/th/id/R.ed15f10a113f369191ed1024bee56c31?rik=tCFPrBY7k5PgcQ&riu=http%3a%2f%2fwww.piskelapp.com%2fstatic%2fresources%2fgithub_octocat.gif&ehk=zEqM%2bq3YtaoIHB6vXdmWZbTI%2ftrO4t1jiFrp%2fzQlUiI%3d&risl=&pid=ImgRaw&r=0?width=676&height=676">
 </div>
+  
+  ## :zap: Recent Activity
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+<details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
+![Metrics](https://metrics.lecoq.io/Pauloreis7?template=classic&followup=1&followup.sections=repositories&config.timezone=America)
+
+</details>
+  
+<img align="right" alt="Paulo-Pic" height="180" src="https://user-images.githubusercontent.com/63323224/135682810-d22cfdbe-06cc-4377-b2ef-2494c30d3060.png?width=676&height=676">
