@@ -40,7 +40,7 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <details>
-  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+  <summary><strong>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜<strong/></summary>
 
 ![Metrics](https://metrics.lecoq.io/Pauloreis7?template=classic&followup=1&followup.sections=repositories&config.timezone=America)
 
