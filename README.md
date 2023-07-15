@@ -1,36 +1,38 @@
 # Hello world! I am Paulo Reis   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
-🏆 FullStack enthusiast of the best technologies on the market. Developer of multiple apps that have impacted hundreds of people around the world 💻. Determined to contribute as much as possible to the technology community and open source projects. 🚀
+### Full Stack Software Developer @ Innvo Labs
 
+`💬 Ask me about JavaScript, TypeScript, C#, .NET, ASP.NET, Node.js, Nest.js, React, Next.js, MongoDB, PostgreSQL, AWS, Microsoft Azure, Docker`
 
 ##  🙋‍♂️  Get in touch
-<div> 
-  <a href = "mailto:paulosilvadosreis2057@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-reis7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/pauloreis.7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
+  [![Email](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:paulosilvadosreis2057@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-reis7)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991138581) 
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pauloreis_)
+
 
 ## 📈 Github Stats
 
 <div>
   <a href="https://github.com/pauloreis7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloreis7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloreis7&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauloreis7&border_color=fff&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pauloreis7&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloreis7&layout=compact&langs_count=7&hide_border=true&title_color=ff91a4&bg_color=0d1117&text_color=dfe4e8" />
+  <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauloreis7&hide_border=true&theme=dracula"/>
 </div>
   
   ## 👨‍💻 Technologies and tools
   
  <div style="display: inline_block"><br>
+  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Paulo-Dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Paulo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Paulo-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paulo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Paulo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Paulo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Paulo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Github" height="140" 
        src="https://th.bing.com/th/id/R.ed15f10a113f369191ed1024bee56c31?rik=tCFPrBY7k5PgcQ&riu=http%3a%2f%2fwww.piskelapp.com%2fstatic%2fresources%2fgithub_octocat.gif&ehk=zEqM%2bq3YtaoIHB6vXdmWZbTI%2ftrO4t1jiFrp%2fzQlUiI%3d&risl=&pid=ImgRaw&r=0?width=676&height=676">
 </div>
